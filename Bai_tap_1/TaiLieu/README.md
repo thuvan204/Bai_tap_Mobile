@@ -18,4 +18,5 @@ Tôi tin rằng trong tương lai gần (10 năm), lập trình di động sẽ 
 Ứng dụng phát triển cho nền tảng Android.
 
 ### Hình ảnh ứng dụng:
+![giaodien](https://github.com/user-attachments/assets/6fb6b2ac-2fbe-4e65-b6aa-1e2928950f28)
 
