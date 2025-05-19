@@ -3001,6 +3001,7 @@ drawable arrow_left
 drawable avd_hide_password
 drawable avd_show_password
 drawable boder_squares_background
+drawable bordermain
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3214,6 +3215,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3288,6 +3290,7 @@ id easeOut
 id east
 id edge
 id edit
+id editTextTextEmailAddress
 id edit_query
 id edit_text_id
 id elastic
@@ -3547,6 +3550,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id subset
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3571,6 +3575,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3740,6 +3745,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_th2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
