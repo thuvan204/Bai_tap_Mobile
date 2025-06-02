@@ -80,6 +80,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "51",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "1982",
+                        "startColumns": "4",
+                        "startOffsets": "131164",
+                        "endColumns": "51",
+                        "endOffsets": "131211"
+                    }
+                },
+                {
                     "source": "C:\\Users\\lqq\\.gradle\\caches\\transforms-4\\df309a1a5247fb5e643555d8a2f93702\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -118,20 +135,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "51",
-                        "endOffsets": "63"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
                     },
                     "to": {
-                        "startLines": "1982",
-                        "startColumns": "4",
-                        "startOffsets": "131164",
-                        "endColumns": "51",
-                        "endOffsets": "131211"
+                        "startLines": "643,962",
+                        "startColumns": "4,4",
+                        "startOffsets": "32937,56613",
+                        "endColumns": "41,41",
+                        "endOffsets": "32974,56650"
                     }
                 },
                 {
@@ -168,6 +185,25 @@
                         "startOffsets": "120574,120614,121746,121970,122025,123521,123566,123620,123676,123728,123780,123829,123890",
                         "endColumns": "39,46,42,54,46,44,53,55,51,51,48,60,49",
                         "endOffsets": "120609,120656,121784,122020,122067,123561,123615,123671,123723,123775,123824,123885,123935"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,328",
+                        "endLines": "5,7",
+                        "endColumns": "12,74",
+                        "endOffsets": "322,398"
+                    },
+                    "to": {
+                        "startLines": "2557,6545",
+                        "startColumns": "4,4",
+                        "startOffsets": "179749,459425",
+                        "endLines": "2560,6545",
+                        "endColumns": "12,73",
+                        "endOffsets": "179865,459494"
                     }
                 },
                 {
@@ -228,23 +264,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "643,962",
-                        "startColumns": "4,4",
-                        "startOffsets": "32937,56613",
-                        "endColumns": "41,41",
-                        "endOffsets": "32974,56650"
-                    }
-                },
-                {
                     "source": "C:\\Users\\lqq\\.gradle\\caches\\transforms-4\\1ebb304d1e3f3a3abaa90b7aab420d1f\\transformed\\activity-1.10.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -293,25 +312,6 @@
                         "startOffsets": "124108",
                         "endColumns": "42",
                         "endOffsets": "124146"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lqq\\Documents\\Baitap_Mobile\\Bai_tap_1\\SourceCode\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,328",
-                        "endLines": "5,7",
-                        "endColumns": "12,74",
-                        "endOffsets": "322,398"
-                    },
-                    "to": {
-                        "startLines": "2557,6545",
-                        "startColumns": "4,4",
-                        "startOffsets": "179749,459425",
-                        "endLines": "2560,6545",
-                        "endColumns": "12,73",
-                        "endOffsets": "179865,459494"
                     }
                 },
                 {

@@ -26,10 +26,10 @@ com.example.myapplication.app-recyclerview-1.1.0-24 C:\Users\lqq\.gradle\caches\
 com.example.myapplication.app-coordinatorlayout-1.1.0-25 C:\Users\lqq\.gradle\caches\transforms-4\e2daa9ad88b04f05285efc12d0fabc15\transformed\coordinatorlayout-1.1.0\res
 com.example.myapplication.app-core-runtime-2.2.0-26 C:\Users\lqq\.gradle\caches\transforms-4\f458acd2340e92999d3df52fa3a055af\transformed\core-runtime-2.2.0\res
 com.example.myapplication.app-lifecycle-process-2.6.2-27 C:\Users\lqq\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\res
-com.example.myapplication.app-pngs-28 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\build\generated\res\pngs\debug
-com.example.myapplication.app-resValues-29 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\build\generated\res\resValues\debug
-com.example.myapplication.app-packageDebugResources-30 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.myapplication.app-packageDebugResources-31 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.myapplication.app-debug-32 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.myapplication.app-debug-33 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\src\debug\res
-com.example.myapplication.app-main-34 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_1\SourceCode\app\src\main\res
+com.example.myapplication.app-pngs-28 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\build\generated\res\pngs\debug
+com.example.myapplication.app-resValues-29 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\build\generated\res\resValues\debug
+com.example.myapplication.app-packageDebugResources-30 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-31 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-debug-32 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myapplication.app-debug-33 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\src\debug\res
+com.example.myapplication.app-main-34 C:\Users\lqq\Documents\Baitap_Mobile\Bai_tap_Mobile\Bai_tap_1\SourceCode\app\src\main\res
